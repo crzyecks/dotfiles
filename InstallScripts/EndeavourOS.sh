@@ -21,6 +21,11 @@ git clone https://aur.archlinux.org/yay-bin.git
 cd yay-bin
 makepkg -si
 
+#Bash profile fix
+sudo rm ~/.bashrc
+cd ~/.bashrc
+wget https://raw.githubusercontent.com/Twig6943/dotfiles/refs/heads/main/ShellProfiles/BASH/.bashrc
+
 #Install Soar
 yay -S soar-bin --noconfirm
 soar defconfig --external
