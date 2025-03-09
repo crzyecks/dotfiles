@@ -121,31 +121,6 @@ items = [
     "flathub org.freedesktop.Platform.VulkanLayer.vkBasalt//24.08",
 ]
 
-# Packages to be installed via Flatpak. (Extra mode)
-[managers.flatpak_extra]
-items = [
-    "flathub io.mrarm.mcpelauncher",
-    "flathub sh.ppy.osu",
-    "flathub tw.ddnet.ddnet",
-    "flathub org.zdoom.GZDoom",
-    "flathub net.supertuxkart.SuperTuxKart",
-    "flathub dev.bragefuglseth.Keypunch",
-    "flathub io.github.TheWisker.Cavasik",
-    "flathub org.nickvision.cavalier",
-    "flathub com.github.tchx84.Flatseal",
-    "flathub io.github.marco_calautti.DeltaPatcher",
-    "flathub org.kde.krita",
-    "flathub org.inkscape.Inkscape",
-    "flathub com.jpexs.decompiler.flash",
-    "flathub org.kde.haruna",
-    "flathub io.mpv.Mpv",
-    "flathub ch.openboard.OpenBoard",
-    "flathub io.github.peazip.PeaZip",
-    "flathub io.github.shiftey.Desktop",
-    "flathub org.qbittorrent.qBittorrent",
-    "flathub org.tenacityaudio.Tenacity",
-    "sober org.vinegarhq.Sober",
-]
 
 # Packages to be installed as .flatpak files.
 #[managers.flatpak_file]
