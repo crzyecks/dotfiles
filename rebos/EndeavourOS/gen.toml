@@ -54,12 +54,6 @@ items = [
     "waydroid-helper#github.com.ayasa520.waydroid-helper.stable:pkgcache",
 ]
 
-#Packages to be installed via Soar. (Profile 1)
-[managers.soar_profile1]
-items = [
-    "funkin#AM.x86_64.funkin-legacy.funkin:ivan-hc-am", #Using soar pkg cuz of wayland support",
-    "ultimmc#wrappe.ultimmc:pkgcache",
-]
 
 #Repos to be added system wide.
 [managers.flatpak_repos]
@@ -96,7 +90,6 @@ items = [
 items = [
     "flathub org.ghidra_sre.Ghidra",
     "flathub com.github.KRTirtho.Spotube",
-    "flathub com.spotify.Client",
     "flathub org.strawberrymusicplayer.strawberry",
     "flathub website.i2pd.i2pd",
     "flathub dev.deedles.Trayscale",
@@ -107,13 +100,10 @@ items = [
     "flathub io.github.giantpinkrobots.varia",
     "flathub com.google.Chrome", #Fortnite Browser
     "flathub im.nheko.Nheko",
-    "flathub im.riot.Riot",
     "flathub dev.vencord.Vesktop",
     "flathub io.github.flattool.Warehouse",
     "flathub org.gnome.GHex",
-    "flathub org.blender.Blender",
     "flathub rs.ruffle.Ruffle",
-    "flathub org.synfig.SynfigStudio",
     "flathub com.github.libresprite.LibreSprite",
     "flathub org.kde.akregator",
     "flathub org.kde.kclock",
@@ -161,7 +151,6 @@ items = [
     "flathub io.github.shiftey.Desktop",
     "flathub org.qbittorrent.qBittorrent",
     "flathub org.tenacityaudio.Tenacity",
-    "flathub-beta org.gimp.GIMP",
     "sober org.vinegarhq.Sober",
 ]
 
