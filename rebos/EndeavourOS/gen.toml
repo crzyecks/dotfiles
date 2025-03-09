@@ -71,13 +71,6 @@ items = [
     "sober https://raw.githubusercontent.com/Twig6943/dotfiles/refs/heads/main/flatpak/repos/sober.flatpakrepo",
 ]
 
-#Repos to be added to the extra installation.
-[managers.flatpak_repos_extra]
-items = [
-    "flathub https://dl.flathub.org/repo/flathub.flatpakrepo",
-    "flathub-beta https://flathub.org/beta-repo/flathub-beta.flatpakrepo",
-    "sober https://raw.githubusercontent.com/Twig6943/dotfiles/refs/heads/main/flatpak/repos/sober.flatpakrepo",
-]
 
 # Packages to be installed via Flatpak. (System mode)
 [managers.flatpak]
