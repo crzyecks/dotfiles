@@ -32,7 +32,7 @@ rebos config init
 
 #Clone dotfiles
 cd /home/$USER
-git clone https://github.com/Twig6943/dotfiles
+git clone https://github.com/crzyecks/dotfiles
 
 #Wallpapers
 sudo mkdir /usr/share/wallpapers/Custom/
