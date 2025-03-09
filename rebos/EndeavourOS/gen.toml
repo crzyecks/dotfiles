@@ -99,6 +99,7 @@ items = [
     "flathub rs.ruffle.Ruffle",
     "flathub com.github.libresprite.LibreSprite",
     "flathub org.kde.akregator",
+    "flathub org.qbittorrent.qBittorrent",
     "flathub org.kde.kclock",
     "flathub io.gitlab.adhami3310.Impression",
     "flathub org.kde.filelight",
